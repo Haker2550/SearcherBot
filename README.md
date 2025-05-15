@@ -1,1 +1,2 @@
 # SearcherBot
+Hi!
