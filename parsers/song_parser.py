@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from config import SELECTOR_SONG_META, SOURCE_URL
+from config import SELECTOR_SONG_META
 
 def parse_song_names(url):
     # Отправляем GET-запрос к странице
